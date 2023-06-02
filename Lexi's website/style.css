@@ -1,0 +1,42 @@
+h1{
+    font-size: 40px;
+    color: #00008b;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #5a5a5a;
+    font-size: 16px;
+}
+
+.img-girl{
+    width: 800px;
+}
+
+fieldset {
+    margin: 2em 0;
+    padding: 1em 2em;
+    border-radius: 6px;
+    border: solid 1px #ccc;
+    min-width: 200px;
+}
+
+legend {
+    font-size: 1.25em;
+    padding: 0 .25em;
+    color: #999;
+}
+
+label {
+    display: block;
+    margin-top: 1em;
+}
+
+label:first-of-type {
+    margin-top: 0;
+}
+
+placeholder {
+    display: block;
+}
